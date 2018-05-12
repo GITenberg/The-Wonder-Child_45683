@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1561
     wikipedia: http://en.wikipedia.org/wiki/Ethel_Turner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45683#The-Wonder-Child
 gutenberg_issued: '2014-05-25'
 gutenberg_type: Text
 identifiers:
