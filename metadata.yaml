@@ -1,0 +1,40 @@
+_repo: The-Wonder-Child_45683
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Browne, Gordon
+    alias: Browne, Gordon Frederick
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '8569'
+    url: http://www.gutenberg.org/2009/agents/8569
+covers:
+- cover_type: archival
+  image_path: 45683-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Turner, Ethel Sybil
+    birthdate: 1870
+    deathdate: 1958
+    gutenberg_agent_id: '1561'
+    url: http://www.gutenberg.org/2009/agents/1561
+    wikipedia: http://en.wikipedia.org/wiki/Ethel_Turner
+description: ''
+gutenberg_issued: '2014-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Musicians -- Juvenile fiction'
+- !lcsh 'Gifted children -- Juvenile fiction'
+- !lcsh 'Poor -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Australia -- Juvenile fiction'
+title: 'The Wonder-Child: An Australian Story'
+url: http://www.gutenberg.org/ebooks/45683
